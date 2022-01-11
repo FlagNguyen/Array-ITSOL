@@ -58,7 +58,6 @@ public class Ex4 {
             }
         }
 
-//        System.out.println("\nThe result: " + result);
     }
 
 }
